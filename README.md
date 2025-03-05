@@ -1,5 +1,43 @@
 # 💫 About Me:
-👨🏻‍💻 Senior NextJS Developer<br>🌐 M.Sc. in Computer Networks<br>🏫 Tabriz University<br>🏠 Tabriz
+# Hi there! 👋 I'm Kamyab Tabani  
+
+🚀 **Senior Next.js Developer | Web Developer | Freelancer**  
+
+I am a passionate **Next.js & React.js Developer** with years of experience in building dynamic, scalable, and user-friendly applications. My focus is on delivering high-performance web solutions using modern technologies.  
+
+## 🛠 Tech Stack  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind, Material UI, Redux, React Query  
+- **Backend:** Node.js, Prisma, MongoDB, Docker, PHP  
+- **Other Tools:** GitHub, NextAuth, PusherJS, Headless UI  
+
+## 📌 What I Do  
+✔ Develop high-performance **Next.js** applications with **SSR, SSG, and PWA** features  
+✔ Create intuitive **UI/UX** using **Tailwind, Material UI, and Headless UI**  
+✔ Build and optimize **RESTful APIs & GraphQL** with **Node.js & Prisma**  
+✔ Implement authentication and security using **NextAuth & JWT**  
+✔ Develop real-time applications with **PusherJS & WebSockets**  
+
+## 💼 Work Experience  
+- **Senior Next.js Developer** at **Tarrahan Javan** *(May 2024 - Present)*  
+- **Next.js Developer** at **Pensive Brains** *(Nov 2022 - Apr 2024)*  
+- **React.js Developer** at **Hoosan** *(May 2022 - Nov 2022)*  
+- **Freelance Web Developer** *(2018 - Present)*  
+
+## 🌟 Featured Projects  
+🔹 **[Portfolio](https://portfolio-xi-eight-54.vercel.app/)** - Built with Next.js, TypeScript, Tailwind, Prisma, MongoDB  
+🔹 **[Comtir - User Panel](https://app.comtir.com/)** - Next.js AppRouter, TypeScript, PWA, Multi-language support  
+🔹 **[Messenger App](https://messenger-clone-gamma-two.vercel.app/)** - Next.js, Prisma, MongoDB, NextAuth, Pusher  
+
+## 🌍 Let's Connect!  
+📧 Email: [k.tabani82@gmail.com](mailto:k.tabani82@gmail.com)  
+🌐 Portfolio: [kamyabtabani.ir](https://kamyabtabani.ir)  
+💼 LinkedIn: [KamyabTabani](https://linkedin.com/in/KamyabTabani)  
+🐦 Telegram: [@KamyabTabani](https://t.me/KamyabTabani)  
+
+---
+
+⚡ **Passionate about building great products and always eager to learn new technologies!**  
+
 
 
 ## 🌐 Socials:
