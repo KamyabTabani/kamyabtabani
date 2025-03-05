@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Kamyab Tabani  
+**Hi there! 👋 I'm Kamyab Tabani**
 
 🚀 **Senior Next.js Developer | Web Developer | Freelancer**  
 
